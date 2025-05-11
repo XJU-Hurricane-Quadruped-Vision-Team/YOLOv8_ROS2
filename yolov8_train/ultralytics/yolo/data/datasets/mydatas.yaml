@@ -1,0 +1,11 @@
+path: D:/code/python/yolov8_train/mydatas
+train: images/train  # train images (relative to 'path') 128 images
+val: images/train  # val images (relative to 'path') 128 images
+#test:  # test images (optional)
+
+# Classes
+names:
+  0: 0
+  1: 1
+  2: 2
+  3: 3
