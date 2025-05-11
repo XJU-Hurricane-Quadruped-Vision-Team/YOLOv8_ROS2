@@ -1,0 +1,3 @@
+[console_scripts]
+camera_pub = camera_pkg.camera_node:main
+

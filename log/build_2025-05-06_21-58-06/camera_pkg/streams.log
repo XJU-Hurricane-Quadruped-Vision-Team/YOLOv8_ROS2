@@ -1,0 +1,38 @@
+[0.542s] Invoking command in '/home/jay/ros2_ws/src/camera_pkg': CONDA_PROMPT_MODIFIER=(pytorch) PYTHONPATH=/home/jay/ros2_ws/build/camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_pkg build --build-base /home/jay/ros2_ws/build/camera_pkg/build install --record /home/jay/ros2_ws/build/camera_pkg/install.log --single-version-externally-managed install_data
+[0.667s] running egg_info
+[0.668s] creating ../../build/camera_pkg/camera_pkg.egg-info
+[0.668s] writing ../../build/camera_pkg/camera_pkg.egg-info/PKG-INFO
+[0.668s] writing dependency_links to ../../build/camera_pkg/camera_pkg.egg-info/dependency_links.txt
+[0.668s] writing entry points to ../../build/camera_pkg/camera_pkg.egg-info/entry_points.txt
+[0.668s] writing requirements to ../../build/camera_pkg/camera_pkg.egg-info/requires.txt
+[0.668s] writing top-level names to ../../build/camera_pkg/camera_pkg.egg-info/top_level.txt
+[0.668s] writing manifest file '../../build/camera_pkg/camera_pkg.egg-info/SOURCES.txt'
+[0.669s] reading manifest file '../../build/camera_pkg/camera_pkg.egg-info/SOURCES.txt'
+[0.669s] adding license file 'LICENSE'
+[0.669s] writing manifest file '../../build/camera_pkg/camera_pkg.egg-info/SOURCES.txt'
+[0.669s] running build
+[0.669s] running build_py
+[0.669s] creating /home/jay/ros2_ws/build/camera_pkg/build
+[0.669s] creating /home/jay/ros2_ws/build/camera_pkg/build/lib
+[0.670s] creating /home/jay/ros2_ws/build/camera_pkg/build/lib/camera_pkg
+[0.670s] copying camera_pkg/__init__.py -> /home/jay/ros2_ws/build/camera_pkg/build/lib/camera_pkg
+[0.670s] copying camera_pkg/camera_node.py -> /home/jay/ros2_ws/build/camera_pkg/build/lib/camera_pkg
+[0.670s] running install
+[0.670s] running install_lib
+[0.670s] creating /home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages/camera_pkg
+[0.670s] copying /home/jay/ros2_ws/build/camera_pkg/build/lib/camera_pkg/__init__.py -> /home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages/camera_pkg
+[0.670s] copying /home/jay/ros2_ws/build/camera_pkg/build/lib/camera_pkg/camera_node.py -> /home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages/camera_pkg
+[0.670s] byte-compiling /home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages/camera_pkg/__init__.py to __init__.cpython-310.pyc
+[0.670s] byte-compiling /home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages/camera_pkg/camera_node.py to camera_node.cpython-310.pyc
+[0.671s] running install_data
+[0.671s] creating /home/jay/ros2_ws/install/camera_pkg/share/ament_index
+[0.671s] creating /home/jay/ros2_ws/install/camera_pkg/share/ament_index/resource_index
+[0.671s] creating /home/jay/ros2_ws/install/camera_pkg/share/ament_index/resource_index/packages
+[0.671s] copying resource/camera_pkg -> /home/jay/ros2_ws/install/camera_pkg/share/ament_index/resource_index/packages
+[0.671s] copying package.xml -> /home/jay/ros2_ws/install/camera_pkg/share/camera_pkg
+[0.671s] running install_egg_info
+[0.672s] Copying ../../build/camera_pkg/camera_pkg.egg-info to /home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages/camera_pkg-0.0.0-py3.10.egg-info
+[0.672s] running install_scripts
+[0.685s] Installing camera_pub script to /home/jay/ros2_ws/install/camera_pkg/lib/camera_pkg
+[0.685s] writing list of installed files to '/home/jay/ros2_ws/build/camera_pkg/install.log'
+[0.701s] Invoked command in '/home/jay/ros2_ws/src/camera_pkg' returned '0': CONDA_PROMPT_MODIFIER=(pytorch) PYTHONPATH=/home/jay/ros2_ws/build/camera_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jay/ros2_ws/install/camera_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_pkg build --build-base /home/jay/ros2_ws/build/camera_pkg/build install --record /home/jay/ros2_ws/build/camera_pkg/install.log --single-version-externally-managed install_data
